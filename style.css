@@ -1,0 +1,33 @@
+body {
+  background-color: lightblue;
+}
+
+#mission {
+	background-color: red;
+}
+#who_we_are {
+	background-color: yellow;
+}
+#how_we_do {
+	background-color: green;
+}
+}
+
+h1 {
+  
+  text-align: center;
+}
+h1 {
+  text-shadow: 5px 5px 10px #666;
+  letter-spacing: 3px;
+  text-align: center;
+}
+h2 {
+  text-shadow: 5px 5px 10px #666;
+  text-align: center;
+}
+
+#clarification {
+	text-align: center;
+	text-shadow: 5px 5px 10px #666;
+}
