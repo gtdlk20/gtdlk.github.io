@@ -12,7 +12,6 @@ body {
 	background-color: green;
 }
 
-
 h1 {
   
   text-align: center;
@@ -39,7 +38,7 @@ h4 {
 	text-align: center;
 }
 
-img {
+.center img {
   display: block;
   margin-left: auto;
   margin-right: auto;
