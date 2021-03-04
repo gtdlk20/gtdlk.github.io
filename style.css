@@ -38,8 +38,12 @@ h4 {
 	text-align: center;
 }
 
-.center img {
+.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.desc {
+  text-decoration-color: grey; 
 }
